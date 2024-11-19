@@ -104,3 +104,26 @@
 ### MISH
 
 ### SNAKE
+
+### Vanishing and exploring gradients
+- intro
+- Context and why these problem occurs
+  - Vanishsing gradients
+  - exploring gradients
+    - why do this happen?
+    - Solutions?
+- overfitting and underfitting
+  - Analogy
+  - singns
+  - solution
+- Bias variance trade-off
+- regularization techniques
+  - L1
+  - L2
+  - Elasticnet
+  - Dropout
+  - Early stoppping
+  - Data augmentation
+  - Early stopping
+  - Image augmentation
+- Key evaluation metrics
