@@ -1,0 +1,68 @@
+# ANN
+
+- Perceptrons
+  - what is a perceptron
+  - components of a perceptron
+    - inputs
+    - weights
+    - bias
+    - weighted sum
+    - activation function
+    - example calu
+  - Decision boundaries in a perceptron
+  - Learning in perceptron
+  - Limitations of Single layer pereptron
+    - linear separability
+    - Step function limitation
+  - Applications of perceptron
+    - Binary classification
+    - Linearly separable problems
+  - **MLP**
+    - intro
+    - Key feature of MLP
+      - multilayers
+      - Non linear activation function
+      - Backprop and optimization
+    - Why Mlps are more powerful than SLP?
+      - Hidden layer
+      - Non linearity
+      - universal approximation
+    - Architecture of MLP
+      - input layer
+      - Hidden layers
+      - Output layer
+      - weight and biases
+      - Activation functions
+      - feedfwd process
+    - Training and back prop in MLP
+    - overfitting and regularization
+    - learning rate scheduling
+    - weight intialization
+      - xavier (glorot) initialization
+      - He intialization
+    - why proper weight intialization matters
+    - xavier initialization
+      - math basic
+      - mechanism
+      - use case
+    - He initialization
+      - mathematical basis
+      - mechanism
+      - use case
+    - Hyperparameter tuning
+      - grid seacrh
+      - random search
+      - bayesian optimization
+      - graident based optimization
+        
+- Transfer learning
+  - introeduction
+  - Steps in trabsefer learning
+    - choose a pre tarined model
+    - modify the arch
+    - freeze the initial layers
+    - Train on new data
+    - evaluate and refine
+- Challenges in Deep MLP
+- Applications of MP
+- 
