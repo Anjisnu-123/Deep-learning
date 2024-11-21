@@ -97,6 +97,6 @@
 ## ZFnet
 - Introduction to zfnet
 - Arch of zfnet
-[!alt_text](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tOUT7XvMctngGQwCHu_woA.png)
+![alt_text](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tOUT7XvMctngGQwCHu_woA.png)
 - strengths if zfnet
 - limitations of Zfnet
