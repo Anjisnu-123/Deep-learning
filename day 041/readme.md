@@ -100,3 +100,29 @@
 ![alt_text](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*tOUT7XvMctngGQwCHu_woA.png)
 - strengths if zfnet
 - limitations of Zfnet
+
+## VGGNet
+- Introduction 
+- Arch of VGGnet
+![alt_text](https://media.geeksforgeeks.org/wp-content/uploads/20200219152327/conv-layers-vgg16-1024x450.jpg)
+![alt_text](https://editor.analyticsvidhya.com/uploads/463339.png)
+- strengths 
+- limitations
+
+## Inception
+- Introduction 
+- Arch of VGGnet
+![alt_text](https://miro.medium.com/v2/resize:fit:1238/format:webp/1*KJdrI051FM5HE3OGBQe8lA.png)
+![alt_text](https://miro.medium.com/v2/resize:fit:1254/format:webp/1*xOfeOvFMs-P1rYjB3OlEQA.png)
+![alt_text](https://miro.medium.com/v2/resize:fit:2434/format:webp/1*_rCyzi7fQzc_Q1gCqSLM1g.png)
+- strengths 
+- limitations
+
+## RESNET
+- Introduction 
+- Arch of VGGnet
+![alt_text](https://miro.medium.com/v2/resize:fit:1280/format:webp/1*foG-iCktwwuQPfepfKyvUA.png)
+![alt_text](https://miro.medium.com/v2/resize:fit:1024/format:webp/1*kBlZtheCjJiA3F1e0IurCw.png)
+![alt_text](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*I2557MCaFdNUm4q9TfvOpw.png)
+- strengths 
+- limitations
